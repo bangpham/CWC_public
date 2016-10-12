@@ -12,9 +12,9 @@ import javafx.scene.layout.AnchorPane;
  * Created by Sheng on 9/19/16.
  * A controller for the the welcome page
  */
-                                           public class WelcomeController extends AnchorPane implements Initializable {
+public class WelcomeController extends AnchorPane implements Initializable {
 
-        private Main application;
+    private Main application;
 
         /**
          * sets the welcome page

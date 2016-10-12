@@ -44,7 +44,7 @@ public class Main extends Application {
         try {
             stage = primaryStage;
             stage.setTitle("CWC");
-            stage.getIcons().add(new Image("file:resources/menu.png"));
+//            stage.getIcons().add(new Image("file:menu1.png"));
             stage.setMinWidth(MINIMUM_WINDOW_WIDTH);
             stage.setMinHeight(MINIMUM_WINDOW_HEIGHT);
             stage.setMaxWidth(MINIMUM_WINDOW_WIDTH);
